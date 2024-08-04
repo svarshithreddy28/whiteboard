@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.tool-img
+{
+    height:4rem;
+}
+.toolbar-options
+{
+    display:flex;
+}
+.toolbar{
+    display: flex;
+    justify-content: center;
+    gap:3rem;
+}
